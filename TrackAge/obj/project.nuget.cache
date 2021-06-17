@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "0bh5DAEqhqn1YtYya5RYTVO9jRSCzoeTC21U5OHGdzmTEqaFdIszmaZoP+hkl6IKJD8S94KTqY3IKZqI95H8LQ==",
+  "dgSpecHash": "QOzI9yLOt8w0UpF+tL9xLKfNyrjxoR6iNMmYJJ9NEctkrLe+7xF8rUGRFW81/nu9jyGgvl71k8+rENlV+xw3Qg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tanne\\source\\repos\\TrackAge\\TrackAge.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\User\\Documents\\GitHub\\TrackAge\\TrackAge\\TrackAge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

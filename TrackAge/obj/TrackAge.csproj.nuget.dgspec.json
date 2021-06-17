@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tanne\\source\\repos\\TrackAge\\TrackAge.csproj": {}
+    "C:\\Users\\User\\Documents\\GitHub\\TrackAge\\TrackAge\\TrackAge.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tanne\\source\\repos\\TrackAge\\TrackAge.csproj": {
+    "C:\\Users\\User\\Documents\\GitHub\\TrackAge\\TrackAge\\TrackAge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tanne\\source\\repos\\TrackAge\\TrackAge.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\TrackAge\\TrackAge\\TrackAge.csproj",
         "projectName": "TrackAge",
-        "projectPath": "C:\\Users\\tanne\\source\\repos\\TrackAge\\TrackAge.csproj",
-        "packagesPath": "C:\\Users\\tanne\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tanne\\source\\repos\\TrackAge\\obj\\",
+        "projectPath": "C:\\Users\\User\\Documents\\GitHub\\TrackAge\\TrackAge\\TrackAge.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Documents\\GitHub\\TrackAge\\TrackAge\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\tanne\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +39,12 @@
       "frameworks": {
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -57,7 +63,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

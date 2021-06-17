@@ -28,7 +28,7 @@ namespace TrackAge
                 courier = lb_Courier.Text
             };
 
-            XMLModify.XMLAdd(newPack);
+            JSONModify.JSONAdd(newPack);
 
             this.Close();
         }

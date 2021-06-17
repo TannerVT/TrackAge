@@ -25,6 +25,11 @@ namespace TrackAge
 
         private void TrackAge_Load(object sender, EventArgs e)
         {
+            RefreshPackages();
+        }
+
+        private void RefreshPackages()
+        {
 
         }
     }
